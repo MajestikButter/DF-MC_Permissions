@@ -1,4 +1,4 @@
-package command
+package permissionscmd
 
 import (
 	"github.com/MajestikButter/DF-MC_Permissions/permissions"
