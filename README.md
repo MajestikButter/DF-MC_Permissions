@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-go get github.com/df-mc/dragonfly
+go get github.com/MajestikButter/DF-MC_Permissions@latest
 ```
 
 ## Usage
